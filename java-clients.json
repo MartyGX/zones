@@ -77,6 +77,28 @@
         ]
     },
     {
+        "name": "EFI 1.12.2",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/efi-1.12.2",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "EFI 1.8.8",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/efi-1.8.8",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
         "name": "Eaglerforge",
         "username": "martygx",
         "repository": "java",
