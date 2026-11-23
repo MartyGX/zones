@@ -1,0 +1,981 @@
+[
+    {
+        "name": "1.0 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.0-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.0",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.0",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.1",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.1",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.12.2 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.12.2-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.12.2",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.12.2",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.13.2 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.13.2-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.13.2",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.13.2",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.14.4 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.14.4-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.14.4",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.14.4",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.15.2 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.15.2-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.15.2",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.15.2",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.16.5 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.16.5-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.16.5",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.16.5",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.17.1 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.17.1-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.19.4 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.19.4-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.19.4",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.19.4",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.2.3 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.2.3-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.2.3",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.2.3",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.2.5 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.2.5-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.2.5",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.2.5",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.20.6 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.20.6-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.21.11 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.21.11-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.21.11",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.21.11",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.3.2 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.3.2-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.4.7 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.4.7-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.4.7",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.4.7",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.5.2 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.5.2-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.5.2",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.5.2",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.6.4",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.6.4",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.7.10 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.7.10-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.7.10",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.7.10",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.8.8 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.8.8-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.8.8",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.8.8",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "1.9.4 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.9.4-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "1.9.4",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/1.9.4",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "26.1.2 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/26.1.2-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "26.2 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/26.2-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "26.3 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/26.3-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "4k",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/4k",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Alpha 1.0.16_02 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/alpha-1.0.16_02-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Alpha 1.0.1_01",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/alpha-1.0.1_01",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Alpha 1.0.4",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/alpha-1.0.4",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Alpha 1.0.6_03",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/alpha-1.0.6_03",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Alpha 1.1.2_01",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/alpha-1.1.2_01",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Alpha 1.2.6 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/alpha-1.2.6-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Alpha 1.2.6",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/alpha-1.2.6",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.0.2",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.0.2",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.0",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.0",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.1",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.1",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.2",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.2",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.3 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.3-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Beta 1.3",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.3",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.4",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.4",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.5",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.5",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.6.4",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.6.4",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.7.3",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.7.3",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.8.1 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.8.1-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Beta 1.8.1",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.8.1",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Beta 1.9 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.9-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Beta 1.9",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/beta-1.9",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Classic 0.0.11a WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.11a-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.12a-03 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.12a-03-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.13a-03 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.13a-03-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.14a-08 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.14a-08-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.15a WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.15a-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.16a-02 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.16a-02-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.17a WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.17a-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.18a-02 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.18a-02-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.19a-06 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.19a-06-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.20a-02 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.20a-02-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.21a WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.21a-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.22a-05 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.22a-05-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.23a-01 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.23a-01-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.24a-03 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.24a-03-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.0.25a-05 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.0.25a-05-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Classic 0.3.0 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/classic-0.3.0-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "EFI 1.12.2",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/efi-1.12.2",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "EFI 1.8.8",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/efi-1.8.8",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Indev 20100214 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/indev-20100214-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Indev 20100214",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/indev-20100214",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Indev 20100219 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/indev-20100219-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Indev 20100223 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/indev-20100223-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Indev",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/indev",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Infdev WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/infdev-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Pre-Classic rd-131655 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/pre-classic-rd-131655-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Pre-Classic rd-132211 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/pre-classic-rd-132211-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Pre-Classic rd-132328 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/pre-classic-rd-132328-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Pre-Classic rd-160052 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/pre-classic-rd-160052-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "Pre-Classic rd-161348 WASM",
+        "username": "martygx",
+        "repository": "java",
+        "path": "game/pre-classic-rd-161348-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    }
+]
