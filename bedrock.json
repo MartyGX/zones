@@ -1,0 +1,24 @@
+[
+    {
+        "name": "0.6.1 Alpha WASM",
+        "username": "martygx",
+        "repository": "bedrock",
+        "path": "0.6.1-alpha-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    },
+    {
+        "name": "0.6.1o Alpha WASM",
+        "username": "martygx",
+        "repository": "bedrock",
+        "path": "0.6.1o-alpha-wasm",
+        "branch": "main",
+        "html": "index.html",
+        "special": [
+            "WASM"
+        ]
+    }
+]
