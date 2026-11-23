@@ -1,0 +1,4 @@
+[
+  { "file": "skins/Jon.png", "name": "Corrupted Steve", "by": "Jon" },
+  { "file": "https://example.com/skins/void.png", "name": "Void", "by": "Unknown", "slim": true }
+]
