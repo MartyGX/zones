@@ -317,16 +317,5 @@
         "special": [
             "JavaScript"
         ]
-    },
-    {
-        "name": "4k",
-        "username": "martygx",
-        "repository": "java",
-        "path": "game/4k",
-        "branch": "main",
-        "html": "index.html",
-        "special": [
-            "JavaScript"
-        ]
     }
 ]
