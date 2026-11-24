@@ -1,4 +1,50 @@
 [
-  { "file": "skins/Jon.png", "name": "Corrupted Steve", "by": "Jon" },
-  { "file": "https://example.com/skins/void.png", "name": "Void", "by": "Unknown", "slim": true }
+  {
+    "file": "skins/bob.png",
+    "name": "Bob"
+  },
+  {
+    "file": "skins/camman18.png",
+    "name": "Camman18"
+  },
+  {
+    "file": "skins/dream.png",
+    "name": "Dream"
+  },
+  {
+    "file": "skins/georgenotfound.png",
+    "name": "GeorgeNotFound"
+  },
+  {
+    "file": "skins/gigachad.png",
+    "name": "GigaChad"
+  },
+  {
+    "file": "skins/jack-black.png",
+    "name": "Jack Black"
+  },
+  {
+    "file": "skins/mrbeast.png",
+    "name": "MrBeast"
+  },
+  {
+    "file": "skins/noob.png",
+    "name": "Noob"
+  },
+  {
+    "file": "skins/prestonplayz.png",
+    "name": "PrestonPlayz"
+  },
+  {
+    "file": "skins/skeppy.png",
+    "name": "Skeppy"
+  },
+  {
+    "file": "skins/technoblade.png",
+    "name": "Technoblade"
+  },
+  {
+    "file": "skins/wemmbu.png",
+    "name": "Wemmbu"
+  }
 ]
