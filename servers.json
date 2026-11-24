@@ -1,4 +1,44 @@
 [
-  { "address": "wss://mc.arch.lol" },
-  { "address": "wss://tuff.ws", "name": "Tuff Network" }
+    {
+        "address": "wss://mc.arch.lol"
+    },
+    {
+        "address": "wss://zentic.cc"
+    },
+    {
+        "address": "wss://mc.zyth.me"
+    },
+    {
+        "address": "wss://play.webmc.fun"
+    },
+    {
+        "address": "wss://asianf4rmer.minecraft.pe"
+    },
+    {
+        "address": "wss://sus.shhnowisnottheti.me"
+    },
+    {
+        "address": "wss://aeon-network.net"
+    },
+    {
+        "address": "wss://adderall.ir"
+    },
+    {
+        "address": "wss://mc.lamplifesteal.xyz"
+    },
+    {
+        "address": "wss://vanillamc.org"
+    },
+    {
+        "address": "wss://mc.voidsent.net"
+    },
+    {
+        "address": "wss://mc.dssx.uk"
+    },
+    {
+        "address": "wss://xena.wtf"
+    },
+    {
+        "address": "wss://tuff.ws"
+    }
 ]
