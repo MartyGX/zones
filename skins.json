@@ -1,50 +1,50 @@
 [
   {
-    "file": "skins/bob.png",
+    "file": "bob.png",
     "name": "Bob"
   },
   {
-    "file": "skins/camman18.png",
+    "file": "camman18.png",
     "name": "Camman18"
   },
   {
-    "file": "skins/dream.png",
+    "file": "dream.png",
     "name": "Dream"
   },
   {
-    "file": "skins/georgenotfound.png",
+    "file": "georgenotfound.png",
     "name": "GeorgeNotFound"
   },
   {
-    "file": "skins/gigachad.png",
+    "file": "gigachad.png",
     "name": "GigaChad"
   },
   {
-    "file": "skins/jack-black.png",
+    "file": "jack-black.png",
     "name": "Jack Black"
   },
   {
-    "file": "skins/mrbeast.png",
+    "file": "mrbeast.png",
     "name": "MrBeast"
   },
   {
-    "file": "skins/noob.png",
+    "file": "noob.png",
     "name": "Noob"
   },
   {
-    "file": "skins/prestonplayz.png",
+    "file": "prestonplayz.png",
     "name": "PrestonPlayz"
   },
   {
-    "file": "skins/skeppy.png",
+    "file": "skeppy.png",
     "name": "Skeppy"
   },
   {
-    "file": "skins/technoblade.png",
+    "file": "technoblade.png",
     "name": "Technoblade"
   },
   {
-    "file": "skins/wemmbu.png",
+    "file": "wemmbu.png",
     "name": "Wemmbu"
   }
 ]
